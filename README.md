@@ -1,4 +1,4 @@
-# CTDL-GT_TRANSLATE-EBOOK
+# TRANSLATE Introduction to algorithm 3
 [HCMUS][CTDL&amp;GT][FINAL PROJECT]
 
 HCMUS_2017-2018 Subject: [CTDL&GT] Final Project
