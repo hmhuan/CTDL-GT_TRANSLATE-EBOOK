@@ -12,4 +12,4 @@ HHT Team (extended):
 Books:
   Introduction to Algorithm 3rd
 
-Annoucement: We re-start this project at this time, Every chapter will be updated in every week.
+Annoucement: We re-start this project at this time, every chapter will be updated in every week (or month).
